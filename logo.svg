@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Afiq IT">
+  <rect width="64" height="64" rx="14" fill="#0E6E8C"/>
+  <g stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" fill="none">
+    <path d="M32 15 L17 49 M32 15 L47 49 M23.5 35 L40.5 35"/>
+  </g>
+  <g fill="#FFFFFF">
+    <circle cx="32" cy="15" r="5.5"/>
+    <circle cx="17" cy="49" r="5.5"/>
+    <circle cx="47" cy="49" r="5.5"/>
+  </g>
+  <circle cx="32" cy="15" r="2.2" fill="#5FE0C8"/>
+</svg>
